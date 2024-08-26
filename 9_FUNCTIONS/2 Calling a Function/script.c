@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 int main(void) {
-  srand(time(NULL));
+  int num1 = -5;
+  int num2 = 42;
   // Write your code below
   
 }
