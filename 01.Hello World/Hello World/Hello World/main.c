@@ -1,10 +1,28 @@
-//
-//  main.c
-//  Hello World
-//
-//  Created by Grahame Narborough on 25/9/2024.
-//
+#include<stdio.h>
+#include<string.h>
 
+int main(void) {
+  printf("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n");
+  printf("||||||||||||||||||||||======06.A_Arrays======||||||||||||||||||||\n");
+  printf("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n");
+  printf("===============================================================\n");
+  printf("=====================1.Introduction===================\n");
+  printf("===============================================================\n");
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 //1 The C Programming Language c helloWorld.c
 
 
@@ -29,10 +47,6 @@
 
 
 
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
   // insert code here...
   printf("Hello, World!\n");
-  return 0;
 }

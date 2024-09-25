@@ -1,14 +1,26 @@
-//
-//  main.c
-//  Variables
-//
-//  Created by Grahame Narborough on 25/9/2024.
-//
+#include<stdio.h>
+#include<string.h>
 
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
-  // insert code here...
-  printf("Hello, World!\n");
-  return 0;
+int main(void) {
+  printf("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n");
+  printf("||||||||||||||||||||||=====05.B_Errors======||||||||||||||||||||\n");
+  printf("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n");
+  printf("===============================================================\n");
+  printf("=====================1.Introduction===================\n");
+  printf("===============================================================\n");
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
