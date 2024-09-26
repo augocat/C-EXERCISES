@@ -1,52 +1,47 @@
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
+#include <string.h>
 
 int main(void) {
   printf("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n");
-  printf("||||||||||||||||||||||======06.A_Arrays======||||||||||||||||||||\n");
+  printf("||||||||||||||||||||||======01.Hello World======||||||||||||||||||||\n");
   printf("|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n");
   printf("===============================================================\n");
-  printf("=====================1.Introduction===================\n");
+  printf("===================1.The C Programming Language===============\n");
   printf("===============================================================\n");
+  // output a line
+  printf("Hello World!\n");
   
+  printf("===============================================================\n");
+  printf("=====================2.Hello World==================\n");
+  printf("===============================================================\n");
+  // output a line
+  printf("Hello World!\n");
   
+  printf("===============================================================\n");
+  printf("=====================3.Syntax and Errors===================\n");
+  printf("===============================================================\n");
+  // output a line
+  //UNCOMMENT BELOW LINE
+  //  printf("Hello World!\n")
   
+  printf("===============================================================\n");
+  printf("=====================4.Output===================\n");
+  printf("===============================================================\n");
+  // Simple Recipe
+  printf("2 Cups: All Purpose Flour");
+  printf("1 Cups: Unsalted Butter(Room Temperature)");
   
+  printf("===============================================================\n");
+  printf("=====================5.Comments===================\n");
+  printf("===============================================================\n");
+  printf("Chocolate chip cookies are way better than oatmeal raisin cookies.\n");
   
+  printf("Learning the C programming language is an exciting adventure!\n");
   
+  printf("===============================================================\n");
+  printf("=====================6.Compiling===================\n");
+  printf("===============================================================\n");
+  // output a line
+  printf("Hello World!\n");
   
-  
-  
-  
-  
-  
-  
-  
-  
-//1 The C Programming Language c helloWorld.c
-
-
-
-//2 Hello World script.c
-
-
-
-//3 Syntax and Errors c script.c
-
-
-
-//4 Output script.c
-
-
-
-//5 Comments script.c
-
-
-
-//6 Compiling
-
-
-
-  // insert code here...
-  printf("Hello, World!\n");
 }
